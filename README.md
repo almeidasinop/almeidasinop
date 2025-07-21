@@ -49,19 +49,12 @@ Uso a impressão 3D como ferramenta essencial para:
 ## ⚙️ Tecnologias e Ferramentas
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
 ![ESP32](https://img.shields.io/badge/-ESP32-000?logo=espressif&logoColor=white)
-
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 
 ---
