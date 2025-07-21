@@ -56,6 +56,7 @@ Uso a impressão 3D como ferramenta essencial para:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000?logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![OctoPrint](https://img.shields.io/badge/-OctoPrint-13C500?logo=3d&logoColor=white)
 
 ---
 
