@@ -62,9 +62,9 @@ Uso a impressão 3D como ferramenta essencial para:
 
 ## 📫 Entre em contato
 
-- 🌐 Site: [imagineweb.dev.br](https://imagineweb.dev.br)
+- 🌐 Site: [imagine.dev.br](https://imagine.dev.br)
 
-- 📧 Email: contato@imagineweb.dev.br  
+- 📧 Email: contato@imagine.dev.br  
 
 - 📷 Instagram: [@carlosalmeidaoficial](https://www.instagram.com/carlosalmeidaoficial/)
 
