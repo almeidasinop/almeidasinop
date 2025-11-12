@@ -1,52 +1,51 @@
 # 👋 Olá, eu sou o Carlos Almeida!
 
-Sou apaixonado por tecnologia e seu poder de transformar realidades. Atuo como desenvolvedor, educador e líder de projetos que conectam inovação digital com impacto social. Tenho experiência com:
+Sou um arquiteto de soluções que une desenvolvimento de software, infraestrutura e hardware (IoT/Maker) para criar produtos com impacto real. Minha paixão é traduzir necessidades complexas — seja de uma ONG, de uma câmara municipal ou de um negócio — em tecnologia acessível, escalável e transformadora.
 
-- 🖥️ **Desenvolvimento Web** com foco em React, TypeScript, Node.js e Python (Django)
+## 🚀 Habilidades Principais
 
-- ☁️ **Infraestrutura e servidores** com Ubuntu Server, VPS, Docker e CasaOS
+Minha experiência cobre o ciclo completo do desenvolvimento de produtos digitais e físicos:
 
-- 📲 **Aplicativos PWA** e soluções modernas para acesso multiplataforma
+Backend & API: Node.js, Python (Django)
 
-- 🔐 **Segurança e Escalabilidade** em sistemas para organizações públicas e privadas
+Frontend: React, TypeScript, Aplicativos PWA
 
-- 🧠 **Integração de IA** para atendimento, automação e melhoria de processos
+Infra & DevOps: Ubuntu Server, Docker, VPS, CasaOS
 
-- 📡 **Transmissão ao vivo** profissional com OBS Studio para câmaras municipais
+Hardware & IoT: ESP32, Raspberry Pi, OctoPrint, Impressão 3D
 
-- 🧰 **Projetos maker e IoT** com ESP32, Raspberry Pi e automações caseiras
-
-- 🧩 **Impressão 3D** com foco em automações, prototipagem e integração com OctoPrint
+Integrações: IA para automação, OBS Studio para transmissão ao vivo
 
 ---
 
-## 🌍 Impacto real
+## 🌍 Impacto Real
 
 Atualmente coordeno e desenvolvo soluções para projetos como:
 
-- **Gestor de Igrejas** ⛪ – Sistema completo de gestão e comunicação para igrejas evangélicas.
+Gestor de Igrejas ⛪ – Sistema completo de gestão e comunicação para igrejas evangélicas.
 
-- **Imagine Soluções Digitais** 💡 – Consultoria e desenvolvimento sob demanda para negócios e instituições públicas.
+Imagine Soluções Digitais 💡 – Consultoria e desenvolvimento sob demanda para negócios e instituições públicas.
 
-- **Educação Legislativa** 📚 – Instrutor convidado pelo Senado Federal para capacitação técnica de câmaras municipais.
+Educação Legislativa e Impacto Público 📚
+
+Como instrutor convidado pelo Senado Federal, tenho a honra de capacitar tecnicamente servidores de câmaras municipais por todo o Brasil. Acredito que fortalecer o legislativo com ferramentas digitais modernas (como o uso de OBS para transmissões e sistemas de gestão) é um caminho direto para uma democracia mais transparente e acessível.
+---
+
+## ⚙️ Hardware, IoT e Prototipagem Rápida
+
+Uso a impressão 3D e a eletrônica (ESP32, Raspberry Pi) como ferramentas essenciais para transformar ideias em realidade física:
+
+Prototipagem rápida de ideias que unem software e hardware.
+
+Criação de suportes, gabinetes e peças sob medida para projetos.
+
+Automação de impressoras 3D com OctoPrint, câmeras e sensores.
+
+Manutenção e personalização de equipamentos eletrônicos.
 
 ---
 
-## 🧩 Impressão 3D & Prototipagem
-
-Uso a impressão 3D como ferramenta essencial para:
-
-- Criação de suportes, gabinetes e peças sob medida para projetos com ESP32 e Raspberry Pi
-
-- Manutenção e personalização de equipamentos eletrônicos
-
-- Automatização de impressoras 3D com **OctoPrint**, câmeras e sensores
-
-- Prototipagem rápida de ideias que unem software e hardware
-
----
-
-## ⚙️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -60,7 +59,7 @@ Uso a impressão 3D como ferramenta essencial para:
 
 ---
 
-## 📫 Entre em contato
+## 📫 Estou sempre aberto a propostas de consultoria em transformação digital, parcerias para projetos de impacto social ou para discutir novas ideias de hardware.
 
 - 🌐 Site: [imagine.dev.br](https://imagine.dev.br)
 
