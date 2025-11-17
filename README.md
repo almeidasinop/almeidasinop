@@ -2,6 +2,12 @@
 
 Sou um arquiteto de soluções que une desenvolvimento de software, infraestrutura e hardware (IoT/Maker) para criar produtos com impacto real. Minha paixão é traduzir necessidades complexas — seja de uma ONG, de uma câmara municipal ou de um negócio — em tecnologia acessível, escalável e transformadora.
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almeidasinop/almeidasinop/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almeidasinop/almeidasinop/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/almeidasinop/almeidasinop/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🚀 Habilidades Principais
 
 Minha experiência cobre o ciclo completo do desenvolvimento de produtos digitais e físicos:
