@@ -34,7 +34,7 @@ Imagine Soluções Digitais 💡 – Consultoria e desenvolvimento sob demanda p
 
 Educação Legislativa e Impacto Público 📚
 
-Como instrutor convidado pelo Senado Federal, tenho a honra de capacitar tecnicamente servidores de câmaras municipais por todo o Brasil. Acredito que fortalecer o legislativo com ferramentas digitais modernas (como o uso de OBS para transmissões e sistemas de gestão) é um caminho direto para uma democracia mais transparente e acessível.
+Como instrutor convidado pelo Senado Federal para o Encontro Nacional do Engitec (promovido pelo Interlegis/ILB), tive a honra de capacitar tecnicamente servidores de câmaras municipais por todo o Brasil. Acredito que fortalecer o legislativo com ferramentas digitais modernas (como o uso de OBS para transmissões e sistemas de gestão) é um caminho direto para uma democracia mais transparente e acessível.
 ---
 
 ## ⚙️ Hardware, IoT e Prototipagem Rápida
